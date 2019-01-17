@@ -50,7 +50,4 @@ The implemented should be done by Python. It does not matter
 which framework you make use of.
 
 ### Submission
-We advise you to use [`CodeSandBox`](https://codesandbox.io/dashboard) to build your RESTful
-API since it is the easiest way to share 
-with us.Codesandbox allows you to build 
-node right inside the browser.
+You can try to finish your python file on your local machine and submit it to us.
